@@ -398,3 +398,15 @@
 'Sunny Lebeau: Security Specialist':
   faction: 'Mini-faction'
   short_name: Sunny
+'Virtual Intelligence, P.I.: "You Can Call Me Vic"':
+  faction: Criminal
+  short_name: Vic
+'Editorial Division: Ad Nihilum':
+  faction: NBN
+  short_name: "Editorial"
+'Méliès U: Only the Brightest':
+  faction: Jinteki
+  short_name: "Méliès"
+'Hiram "0mission" Svensson: Shadow of the Past':
+  faction: Shaper
+  short_name: "Hiram"
